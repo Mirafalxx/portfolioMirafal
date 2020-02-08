@@ -101,7 +101,7 @@ body {
     height: 389px;
     background-color: white;
     border-radius: 50%;
-    background-image: url('./img/neavatar.jpg');
+    background-image: url('../img/neavatar.jpg');
     background-repeat: no-repeat;
     background-position: center top -70px;
     border: white solid 13px;
