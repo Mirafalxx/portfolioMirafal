@@ -101,7 +101,7 @@ body {
     height: 389px;
     background-color: white;
     border-radius: 50%;
-    background-image: url('/img/neavatar.jpg');
+    background-image: url('./img/neavatar.jpg');
     background-repeat: no-repeat;
     background-position: center top -70px;
     border: white solid 13px;
@@ -276,13 +276,13 @@ body {
 
 .input-name {
     margin-bottom: 17px;
-    background-image: url('/img/formIcon/user-icon.svg');
+    background-image: url('./img/formIcon/user-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
 }
 
 .input-phone {
-    background-image: url('/img/formIcon/phone-icon.svg');
+    background-image: url('./img/formIcon/phone-icon.svg');
     background-repeat: no-repeat;
     background-position: center left 20px;
     margin-bottom: 20px;
